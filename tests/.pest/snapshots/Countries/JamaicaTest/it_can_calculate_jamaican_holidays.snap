@@ -1,15 +1,11 @@
 [
     {
-        "name": "New Years  Day",
+        "name": "New Year's Day",
         "date": "2024-01-01"
     },
     {
-        "name": "John Chilembwe Day",
-        "date": "2024-01-15"
-    },
-    {
-        "name": "Martyrs Day",
-        "date": "2024-03-03"
+        "name": "Ash Wednesday",
+        "date": "2024-02-14"
     },
     {
         "name": "Good Friday",
@@ -21,19 +17,19 @@
     },
     {
         "name": "Labour Day",
-        "date": "2024-05-01"
+        "date": "2024-05-23"
     },
     {
-        "name": "Kamuzu Day",
-        "date": "2024-05-14"
+        "name": "Emancipation Day",
+        "date": "2024-08-01"
     },
     {
         "name": "Independence Day",
-        "date": "2024-07-06"
+        "date": "2024-08-06"
     },
     {
-        "name": "Mothers Day",
-        "date": "2024-10-15"
+        "name": "National Heroes Day",
+        "date": "2024-10-21"
     },
     {
         "name": "Christmas Day",
